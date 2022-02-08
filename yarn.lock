@@ -4204,6 +4204,22 @@
     tiny-warning "^1.0.0"
     toformat "^2.0.0"
 
+"@sushiswap/core-sdk@1.0.0-canary.31":
+  version "1.0.0-canary.31"
+  resolved "https://registry.yarnpkg.com/@sushiswap/core-sdk/-/core-sdk-1.0.0-canary.31.tgz#bec23873ec0e1b6e4e1cb043fc16168ea5ca7a09"
+  integrity sha512-0C5lXGdJSEIVZ32qVEg0EB1xmw9Y3QxizwPoJx0JxUAf+B1VzB4IROH1VbE8h2hUyJkiIkjWm/ZHQE6lYp4GGw==
+  dependencies:
+    "@ethersproject/address" "^5.4.0"
+    "@ethersproject/bignumber" "^5.4.0"
+    "@ethersproject/providers" "^5.4.0"
+    "@ethersproject/solidity" "^5.4.0"
+    big.js "^6.1.1"
+    decimal.js-light "^2.5.0"
+    jsbi "^4.1.0"
+    tiny-invariant "^1.1.0"
+    tiny-warning "^1.0.0"
+    toformat "^2.0.0"
+
 "@sushiswap/core-sdk@1.0.0-canary.34", "@sushiswap/core-sdk@^1.0.0-canary.33":
   version "1.0.0-canary.34"
   resolved "https://registry.yarnpkg.com/@sushiswap/core-sdk/-/core-sdk-1.0.0-canary.34.tgz#492dd13861c33c9ce1d076e9c6c5d24047474522"
@@ -4298,7 +4314,7 @@
     tiny-warning "^1.0.3"
     toformat "^2.0.0"
 
-"@sushiswap/tines@1.0.0-canary.16", "@sushiswap/tines@^1.0.0-canary.15":
+"@sushiswap/tines@1.0.0-canary.16":
   version "1.0.0-canary.16"
   resolved "https://registry.yarnpkg.com/@sushiswap/tines/-/tines-1.0.0-canary.16.tgz#93e560f3e0b8036ac3f975376dba1d9b5483740c"
   integrity sha512-IJ9GwQ//C3XjvFfAfzk1EHTfU4HDSz+LXckPo53jC84WC6o6T9k44we9UxQJBZsZJhMAmw3V4T+Pr1UxxN/M3w==
@@ -4306,6 +4322,14 @@
     "@ethersproject/bignumber" "^5.4.0"
     "@sushiswap/core-sdk" "1.0.0-canary.34"
     "@sushiswap/tines" "1.0.0-canary.16"
+
+"@sushiswap/tines@^1.0.0-canary.49":
+  version "1.0.0-canary.49"
+  resolved "https://registry.yarnpkg.com/@sushiswap/tines/-/tines-1.0.0-canary.49.tgz#0bb1c9acdd534fa5e888baad61e470f13e22b2c7"
+  integrity sha512-NsG0ghqkidykU7y6vuV186YxIKFe5OD7DBEbDgXCYKuRXhan7GrecBVXR++Sa/Z4jQoniXu3Uxkr/mMSMoLebg==
+  dependencies:
+    "@ethersproject/bignumber" "^5.4.0"
+    "@sushiswap/core-sdk" "1.0.0-canary.31"
 
 "@sushiswap/trident-sdk@^1.0.0-canary.43":
   version "1.0.0-canary.44"
