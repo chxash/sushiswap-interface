@@ -4324,10 +4324,10 @@
   resolved "https://registry.yarnpkg.com/@sushiswap/trident/-/trident-1.0.0-canary.27.tgz#1459aee64ba0a5a8a37ee44905fc7be88f2fe413"
   integrity sha512-p4E/FQKK7ewYq0PJjGLOh017WsrWPgok3039iT3OKRmJaZAQpJF2xQsogoukc1o0ZuSwdUTVwAarOTk5xsP0Xg==
 
-"@sushiswap/trident@^1.0.0-canary.28":
-  version "1.0.0-canary.28"
-  resolved "https://registry.yarnpkg.com/@sushiswap/trident/-/trident-1.0.0-canary.28.tgz#65588d1523698091c9e89c0577b4f703681e2336"
-  integrity sha512-ERkTBwbZFR/MaYyGhbGmcVh0B7KYw9HVSgTK0yStLgcxgJ9TICgRJOeOmk3C0Xwkg7KTFXUNoTbRea7EpFP7tQ==
+"@sushiswap/trident@^1.0.0-canary.37":
+  version "1.0.0-canary.37"
+  resolved "https://registry.yarnpkg.com/@sushiswap/trident/-/trident-1.0.0-canary.37.tgz#a6727d3bb2a061958490b3b9d0f1c63bb4454a56"
+  integrity sha512-KTAbfEk6z1RarLLlwpZ6mxZX+lkrDmc5j+d06Obbojpqdv28qg6O8VzuWO1g9Odtm0K3O430KrkyR6ZLUF/SRQ==
 
 "@szmarczak/http-timer@^1.1.2":
   version "1.1.2"
